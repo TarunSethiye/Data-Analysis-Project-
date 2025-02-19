@@ -1,4 +1,5 @@
 Walmart Data Analysis Project
+
 In this project, I performed an in-depth analysis of Walmart sales data using Python (Pandas, NumPy, Matplotlib). The objective was to uncover key business insights related to sales trends, shipping duration, and product category performance.
 
 Key Analyses & Insights:
