@@ -12,6 +12,9 @@ Key Analyses & Insights:
 ✅ Performance Metrics: Determined the most frequently purchased product categories and their impact on sales.
 
 Tools & Technologies Used:
+
 Python: Pandas for data manipulation, NumPy for numerical computations.
+
 Data Visualization: Matplotlib for graphical representation of insights.
+
 Data Processing: Extracted key features such as order quarters and shipping duration to enhance business insights.
